@@ -1,4 +1,4 @@
-# HelloVue Setup
+# Vuetify Setup
 A VueJs project setup including (Vue, VueRouter, Vuex, Vuetify)
 
 A quick start project, just clone it and follow the instructions given bellow :-
