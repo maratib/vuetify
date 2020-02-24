@@ -1,5 +1,5 @@
 # HelloVue Setup
-A VueJs project setup including (Vue, VueRouter, Vuex, Bootsrap, BootstrapVue, Sass)
+A VueJs project setup including (Vue, VueRouter, Vuex, Vuetify)
 
 A quick start project, just clone it and follow the instructions given bellow :-
 ## Project setup
